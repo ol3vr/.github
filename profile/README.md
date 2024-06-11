@@ -1,4 +1,4 @@
-# ol3vr - Open Source by Oliver Newth
+# ol3vr - open source by oliver newth
 
 Welcome to the official GitHub organization of Oliver Newth, also known as OL3VR. This organization hosts a variety of personal projects, experiments, and collaborative works of Oliver Newth. 
 
